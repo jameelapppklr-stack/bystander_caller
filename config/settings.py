@@ -1,4 +1,4 @@
 # SPDX-License-Identifier: Apache-2.0
-# Copyright (c) 2025 Ikhlas
+# Copyright (c) 2025 Ashmil
 
-# Configuration settings for the application
+# Configuration settings for the applicAshmil
